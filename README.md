@@ -1,4 +1,4 @@
-EasyOCR – Enhanced Live Text Detection
+**EasyOCR – Enhanced Live Text Detection**
 
 Real-time Text Detection system built using EasyOCR, OpenCV, and Python, upgraded with advanced text preprocessing, text-to-speech (TTS), translation, clipboard copy, filtering, and automatic logging.
 
