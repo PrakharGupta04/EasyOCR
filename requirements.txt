@@ -1,0 +1,8 @@
+easyocr==1.7.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+torch==2.2.1
+torchvision==0.17.1
+pyttsx3
+googletrans==4.0.0-rc1
+pyperclip
